@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" fill="none">
+  <rect width="1200" height="750" fill="#FAFAFA"/>
+  <rect width="1200" height="64" fill="#FFFFFF" stroke="#E5E5E5"/>
+  <text x="48" y="42" fill="#171717" font-family="system-ui,sans-serif" font-size="20" font-weight="800">Gizmo</text>
+  <text x="140" y="42" fill="#737373" font-family="system-ui,sans-serif" font-size="14">Platform</text>
+  <rect x="880" y="18" width="100" height="28" rx="6" fill="#F5F5F5"/>
+  <text x="930" y="37" text-anchor="middle" fill="#525252" font-family="system-ui,sans-serif" font-size="12">Features</text>
+  <rect x="996" y="18" width="80" height="28" rx="6" fill="#171717"/>
+  <text x="1036" y="37" text-anchor="middle" fill="#FFFFFF" font-family="system-ui,sans-serif" font-size="12" font-weight="600">Launch</text>
+  <rect x="48" y="120" width="520" height="280" rx="16" fill="#171717"/>
+  <text x="80" y="200" fill="#FFFFFF" font-family="system-ui,sans-serif" font-size="36" font-weight="800">Modular Web</text>
+  <text x="80" y="248" fill="#FFFFFF" font-family="system-ui,sans-serif" font-size="36" font-weight="800">Platform</text>
+  <text x="80" y="300" fill="#A3A3A3" font-family="system-ui,sans-serif" font-size="16">Next.js SSR " SEO optimized " High performance</text>
+  <rect x="80" y="340" width="140" height="40" rx="8" fill="#FFFFFF"/>
+  <text x="150" y="365" text-anchor="middle" fill="#171717" font-family="system-ui,sans-serif" font-size="14" font-weight="600">Get Started</text>
+  <rect x="600" y="120" width="552" height="280" rx="16" fill="#FFFFFF" stroke="#E5E5E5"/>
+  <rect x="624" y="144" width="504" height="32" rx="6" fill="#F5F5F5"/>
+  <rect x="624" y="192" width="240" height="160" rx="8" fill="#FEF3C7"/>
+  <text x="644" y="220" fill="#92400E" font-family="system-ui,sans-serif" font-size="12" font-weight="600">SSR Module</text>
+  <text x="644" y="248" fill="#78350F" font-family="system-ui,sans-serif" font-size="11">Server-rendered layouts</text>
+  <rect x="888" y="192" width="240" height="160" rx="8" fill="#DBEAFE"/>
+  <text x="908" y="220" fill="#1E40AF" font-family="system-ui,sans-serif" font-size="12" font-weight="600">API Layer</text>
+  <text x="908" y="248" fill="#1E3A8A" font-family="system-ui,sans-serif" font-size="11">REST integration</text>
+  <rect x="48" y="440" width="1104" height="260" rx="16" fill="#FFFFFF" stroke="#E5E5E5"/>
+  <text x="80" y="484" fill="#171717" font-family="system-ui,sans-serif" font-size="18" font-weight="700">Performance Metrics</text>
+  <rect x="80" y="508" width="240" height="80" rx="10" fill="#F0FDF4"/>
+  <text x="100" y="540" fill="#166534" font-family="system-ui,sans-serif" font-size="24" font-weight="700">98</text>
+  <text x="140" y="540" fill="#166534" font-family="system-ui,sans-serif" font-size="14">Lighthouse</text>
+  <text x="100" y="568" fill="#15803D" font-family="system-ui,sans-serif" font-size="12">SEO Score</text>
+  <rect x="344" y="508" width="240" height="80" rx="10" fill="#EFF6FF"/>
+  <text x="364" y="540" fill="#1D4ED8" font-family="system-ui,sans-serif" font-size="24" font-weight="700">&lt;1s</text>
+  <text x="420" y="540" fill="#1D4ED8" font-family="system-ui,sans-serif" font-size="14">Load Time</text>
+  <text x="364" y="568" fill="#2563EB" font-family="system-ui,sans-serif" font-size="12">First Contentful Paint</text>
+  <rect x="608" y="508" width="240" height="80" rx="10" fill="#FAF5FF"/>
+  <text x="628" y="540" fill="#7E22CE" font-family="system-ui,sans-serif" font-size="24" font-weight="700">SSR</text>
+  <text x="680" y="540" fill="#7E22CE" font-family="system-ui,sans-serif" font-size="14">Enabled</text>
+  <text x="628" y="568" fill="#9333EA" font-family="system-ui,sans-serif" font-size="12">Server-Side Rendering</text>
+  <rect x="872" y="508" width="240" height="80" rx="10" fill="#FFF7ED"/>
+  <text x="892" y="540" fill="#C2410C" font-family="system-ui,sans-serif" font-size="24" font-weight="700">100%</text>
+  <text x="952" y="540" fill="#C2410C" font-family="system-ui,sans-serif" font-size="14">TypeScript</text>
+  <text x="892" y="568" fill="#EA580C" font-family="system-ui,sans-serif" font-size="12">Strict type contracts</text>
+</svg>

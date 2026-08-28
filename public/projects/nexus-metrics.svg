@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" fill="none">
+  <rect width="1200" height="750" fill="#F1F5F9"/>
+  <rect width="1200" height="52" fill="#1E293B"/>
+  <text x="40" y="34" fill="#FFFFFF" font-family="system-ui,sans-serif" font-size="16" font-weight="700">Sify Enterprise Portal</text>
+  <text x="960" y="34" fill="#94A3B8" font-family="system-ui,sans-serif" font-size="13">Candidate Registration</text>
+  <rect x="40" y="80" width="260" height="640" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="60" y="116" fill="#64748B" font-family="system-ui,sans-serif" font-size="11" font-weight="600">NAVIGATION</text>
+  <rect x="52" y="128" width="236" height="36" rx="6" fill="#EFF6FF"/>
+  <text x="68" y="151" fill="#2563EB" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Registration</text>
+  <rect x="52" y="176" width="236" height="36" rx="6" fill="#F8FAFC"/>
+  <text x="68" y="199" fill="#475569" font-family="system-ui,sans-serif" font-size="13">Exam Results</text>
+  <rect x="52" y="224" width="236" height="36" rx="6" fill="#F8FAFC"/>
+  <text x="68" y="247" fill="#475569" font-family="system-ui,sans-serif" font-size="13">Call Letters</text>
+  <rect x="52" y="272" width="236" height="36" rx="6" fill="#F8FAFC"/>
+  <text x="68" y="295" fill="#475569" font-family="system-ui,sans-serif" font-size="13">Task Management</text>
+  <rect x="320" y="80" width="840" height="640" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="348" y="120" fill="#0F172A" font-family="system-ui,sans-serif" font-size="22" font-weight="700">Candidate Registration Form</text>
+  <text x="348" y="148" fill="#64748B" font-family="system-ui,sans-serif" font-size="14">High-traffic enterprise portal " Real-time validation</text>
+  <text x="348" y="200" fill="#334155" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Full Name *</text>
+  <rect x="348" y="212" width="380" height="40" rx="6" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="364" y="237" fill="#0F172A" font-family="system-ui,sans-serif" font-size="13">Keerthana Senthilkumar</text>
+  <text x="760" y="200" fill="#334155" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Application ID *</text>
+  <rect x="760" y="212" width="380" height="40" rx="6" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="776" y="237" fill="#0F172A" font-family="system-ui,sans-serif" font-size="13">APP-2025-78432</text>
+  <text x="348" y="284" fill="#334155" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Email Address *</text>
+  <rect x="348" y="296" width="380" height="40" rx="6" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="364" y="321" fill="#0F172A" font-family="system-ui,sans-serif" font-size="13">candidate@example.com</text>
+  <text x="760" y="284" fill="#334155" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Exam Center *</text>
+  <rect x="760" y="296" width="380" height="40" rx="6" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="776" y="321" fill="#0F172A" font-family="system-ui,sans-serif" font-size="13">Chennai  Zone A</text>
+  <rect x="348" y="368" width="792" height="80" rx="8" fill="#F0FDF4" stroke="#BBF7D0"/>
+  <text x="368" y="400" fill="#166534" font-family="system-ui,sans-serif" font-size="13" font-weight="600"> All fields validated " REST API connected</text>
+  <text x="368" y="424" fill="#15803D" font-family="system-ui,sans-serif" font-size="12">35% faster page load via code splitting & lazy loading</text>
+  <rect x="348" y="472" width="792" height="180" rx="8" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="368" y="504" fill="#64748B" font-family="system-ui,sans-serif" font-size="12" font-weight="600">TRAFFIC OVERVIEW</text>
+  <polyline points="368,620 448,580 528,590 608,520 688,540 768,480 848,500 928,440 1008,460 1088,420" stroke="#2563EB" stroke-width="3" fill="none"/>
+  <rect x="348" y="668" width="140" height="36" rx="8" fill="#1E293B"/>
+  <text x="418" y="691" text-anchor="middle" fill="#FFFFFF" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Submit</text>
+</svg>

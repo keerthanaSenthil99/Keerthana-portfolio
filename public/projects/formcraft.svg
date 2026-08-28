@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" fill="none">
+  <rect width="1200" height="750" fill="#F8FAFC"/>
+  <rect width="1200" height="48" fill="#0F172A"/>
+  <circle cx="24" cy="24" r="6" fill="#EF4444"/>
+  <circle cx="44" cy="24" r="6" fill="#F59E0B"/>
+  <circle cx="64" cy="24" r="6" fill="#22C55E"/>
+  <text x="600" y="30" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="14">FormCraft  Schema Builder</text>
+  <rect x="0" y="48" width="220" height="702" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="24" y="88" fill="#64748B" font-family="system-ui,sans-serif" font-size="12" font-weight="600">WORKSPACES</text>
+  <rect x="16" y="100" width="188" height="36" rx="8" fill="#EEF2FF"/>
+  <text x="32" y="123" fill="#4338CA" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Excel Import</text>
+  <rect x="16" y="148" width="188" height="36" rx="8" fill="#F8FAFC"/>
+  <text x="32" y="171" fill="#475569" font-family="system-ui,sans-serif" font-size="13">JSON Schemas</text>
+  <rect x="16" y="196" width="188" height="36" rx="8" fill="#F8FAFC"/>
+  <text x="32" y="219" fill="#475569" font-family="system-ui,sans-serif" font-size="13">Form Templates</text>
+  <rect x="240" y="72" width="940" height="660" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="268" y="108" fill="#0F172A" font-family="system-ui,sans-serif" font-size="22" font-weight="700">Dynamic Form Builder</text>
+  <text x="268" y="134" fill="#64748B" font-family="system-ui,sans-serif" font-size="14">Convert unstructured Excel rows into validated JSON schemas</text>
+  <rect x="268" y="160" width="420" height="220" rx="10" fill="#F1F5F9" stroke="#CBD5E1"/>
+  <text x="288" y="192" fill="#334155" font-family="monospace" font-size="13">field_name: "employee_id"</text>
+  <text x="288" y="218" fill="#334155" font-family="monospace" font-size="13">type: "string"</text>
+  <text x="288" y="244" fill="#334155" font-family="monospace" font-size="13">required: true</text>
+  <text x="288" y="270" fill="#334155" font-family="monospace" font-size="13">validation: /^[A-Z0-9]+$/</text>
+  <rect x="288" y="300" width="120" height="32" rx="6" fill="#4338CA"/>
+  <text x="348" y="321" text-anchor="middle" fill="#FFFFFF" font-family="system-ui,sans-serif" font-size="12" font-weight="600">Add Field</text>
+  <rect x="720" y="160" width="420" height="220" rx="10" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="740" y="192" fill="#64748B" font-family="system-ui,sans-serif" font-size="12" font-weight="600">LIVE PREVIEW</text>
+  <rect x="740" y="210" width="380" height="40" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="756" y="235" fill="#94A3B8" font-family="system-ui,sans-serif" font-size="13">Employee ID</text>
+  <rect x="740" y="264" width="380" height="40" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="756" y="289" fill="#94A3B8" font-family="system-ui,sans-serif" font-size="13">Department</text>
+  <rect x="268" y="420" width="872" height="120" rx="10" fill="#ECFDF5" stroke="#A7F3D0"/>
+  <text x="288" y="456" fill="#047857" font-family="system-ui,sans-serif" font-size="14" font-weight="600"> 10K+ daily API requests processed</text>
+  <text x="288" y="484" fill="#065F46" font-family="system-ui,sans-serif" font-size="13">Sub-100ms latency " Real-time state sync " PostgreSQL backend</text>
+  <rect x="268" y="564" width="160" height="36" rx="8" fill="#0F172A"/>
+  <text x="348" y="587" text-anchor="middle" fill="#FFFFFF" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Publish Schema</text>
+</svg>
